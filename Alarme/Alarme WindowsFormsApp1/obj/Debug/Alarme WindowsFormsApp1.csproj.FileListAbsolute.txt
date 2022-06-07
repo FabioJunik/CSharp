@@ -1,0 +1,10 @@
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Alarme WindowsFormsApp1\Alarme WindowsFormsApp1\bin\Debug\Alarme WindowsFormsApp1.exe.config
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Alarme WindowsFormsApp1\Alarme WindowsFormsApp1\bin\Debug\Alarme WindowsFormsApp1.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Alarme WindowsFormsApp1\Alarme WindowsFormsApp1\bin\Debug\Alarme WindowsFormsApp1.pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Alarme WindowsFormsApp1\Alarme WindowsFormsApp1\obj\Debug\Alarme WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Alarme WindowsFormsApp1\Alarme WindowsFormsApp1\obj\Debug\Alarme_WindowsFormsApp1.Form1.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Alarme WindowsFormsApp1\Alarme WindowsFormsApp1\obj\Debug\Alarme_WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Alarme WindowsFormsApp1\Alarme WindowsFormsApp1\obj\Debug\Alarme WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Alarme WindowsFormsApp1\Alarme WindowsFormsApp1\obj\Debug\Alarme WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Alarme WindowsFormsApp1\Alarme WindowsFormsApp1\obj\Debug\Alarme WindowsFormsApp1.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Alarme WindowsFormsApp1\Alarme WindowsFormsApp1\obj\Debug\Alarme WindowsFormsApp1.pdb
