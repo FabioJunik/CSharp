@@ -1,0 +1,10 @@
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Browser 1.0 WindowsFormsApp1\Browser 1.0 WindowsFormsApp1\bin\Debug\Browser 1.0 WindowsFormsApp1.exe.config
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Browser 1.0 WindowsFormsApp1\Browser 1.0 WindowsFormsApp1\bin\Debug\Browser 1.0 WindowsFormsApp1.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Browser 1.0 WindowsFormsApp1\Browser 1.0 WindowsFormsApp1\bin\Debug\Browser 1.0 WindowsFormsApp1.pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Browser 1.0 WindowsFormsApp1\Browser 1.0 WindowsFormsApp1\obj\Debug\Browser 1.0 WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Browser 1.0 WindowsFormsApp1\Browser 1.0 WindowsFormsApp1\obj\Debug\Browser_1._0_WindowsFormsApp1.Form1.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Browser 1.0 WindowsFormsApp1\Browser 1.0 WindowsFormsApp1\obj\Debug\Browser_1._0_WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Browser 1.0 WindowsFormsApp1\Browser 1.0 WindowsFormsApp1\obj\Debug\Browser 1.0 WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Browser 1.0 WindowsFormsApp1\Browser 1.0 WindowsFormsApp1\obj\Debug\Browser 1.0 WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Browser 1.0 WindowsFormsApp1\Browser 1.0 WindowsFormsApp1\obj\Debug\Browser 1.0 WindowsFormsApp1.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Browser 1.0 WindowsFormsApp1\Browser 1.0 WindowsFormsApp1\obj\Debug\Browser 1.0 WindowsFormsApp1.pdb

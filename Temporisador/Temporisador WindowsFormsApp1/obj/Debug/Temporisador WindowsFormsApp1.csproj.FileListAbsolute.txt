@@ -1,0 +1,20 @@
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Temporisador WindowsFormsApp1\Temporisador WindowsFormsApp1\bin\Debug\Temporisador WindowsFormsApp1.exe.config
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Temporisador WindowsFormsApp1\Temporisador WindowsFormsApp1\bin\Debug\Temporisador WindowsFormsApp1.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Temporisador WindowsFormsApp1\Temporisador WindowsFormsApp1\bin\Debug\Temporisador WindowsFormsApp1.pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Temporisador WindowsFormsApp1\Temporisador WindowsFormsApp1\obj\Debug\Temporisador WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Temporisador WindowsFormsApp1\Temporisador WindowsFormsApp1\obj\Debug\Temporisador_WindowsFormsApp1.Form1.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Temporisador WindowsFormsApp1\Temporisador WindowsFormsApp1\obj\Debug\Temporisador_WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Temporisador WindowsFormsApp1\Temporisador WindowsFormsApp1\obj\Debug\Temporisador WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Temporisador WindowsFormsApp1\Temporisador WindowsFormsApp1\obj\Debug\Temporisador WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Temporisador WindowsFormsApp1\Temporisador WindowsFormsApp1\obj\Debug\Temporisador WindowsFormsApp1.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Temporisador WindowsFormsApp1\Temporisador WindowsFormsApp1\obj\Debug\Temporisador WindowsFormsApp1.pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\FábioMadaleno12\Temporisador WindowsFormsApp1\Temporisador WindowsFormsApp1\bin\Debug\Temporisador WindowsFormsApp1.exe.config
+C:\Users\Fábio junic\Videos\Aulas\Project C#\FábioMadaleno12\Temporisador WindowsFormsApp1\Temporisador WindowsFormsApp1\bin\Debug\Temporisador WindowsFormsApp1.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\FábioMadaleno12\Temporisador WindowsFormsApp1\Temporisador WindowsFormsApp1\bin\Debug\Temporisador WindowsFormsApp1.pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\FábioMadaleno12\Temporisador WindowsFormsApp1\Temporisador WindowsFormsApp1\obj\Debug\Temporisador WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\FábioMadaleno12\Temporisador WindowsFormsApp1\Temporisador WindowsFormsApp1\obj\Debug\Temporisador_WindowsFormsApp1.Form1.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\FábioMadaleno12\Temporisador WindowsFormsApp1\Temporisador WindowsFormsApp1\obj\Debug\Temporisador_WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\FábioMadaleno12\Temporisador WindowsFormsApp1\Temporisador WindowsFormsApp1\obj\Debug\Temporisador WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\FábioMadaleno12\Temporisador WindowsFormsApp1\Temporisador WindowsFormsApp1\obj\Debug\Temporisador WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\FábioMadaleno12\Temporisador WindowsFormsApp1\Temporisador WindowsFormsApp1\obj\Debug\Temporisador WindowsFormsApp1.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\FábioMadaleno12\Temporisador WindowsFormsApp1\Temporisador WindowsFormsApp1\obj\Debug\Temporisador WindowsFormsApp1.pdb
