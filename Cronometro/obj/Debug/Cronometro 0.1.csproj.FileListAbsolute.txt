@@ -1,0 +1,20 @@
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Cronometro 0.1\bin\Debug\Cronometro 0.1.exe.config
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Cronometro 0.1\bin\Debug\Cronometro 0.1.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Cronometro 0.1\bin\Debug\Cronometro 0.1.pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Cronometro 0.1\obj\Debug\Cronometro 0.1.csprojAssemblyReference.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Cronometro 0.1\obj\Debug\Cronometro_0._1.Form1.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Cronometro 0.1\obj\Debug\Cronometro_0._1.Properties.Resources.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Cronometro 0.1\obj\Debug\Cronometro 0.1.csproj.GenerateResource.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Cronometro 0.1\obj\Debug\Cronometro 0.1.csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Cronometro 0.1\obj\Debug\Cronometro 0.1.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Cronometro 0.1\obj\Debug\Cronometro 0.1.pdb
+C:\Users\Fábio junic\Videos\.Aulas\Project C#\Parte 2\FábioMadaleno12\Cronometro 0.1\bin\Debug\Cronometro 0.1.exe.config
+C:\Users\Fábio junic\Videos\.Aulas\Project C#\Parte 2\FábioMadaleno12\Cronometro 0.1\bin\Debug\Cronometro 0.1.exe
+C:\Users\Fábio junic\Videos\.Aulas\Project C#\Parte 2\FábioMadaleno12\Cronometro 0.1\bin\Debug\Cronometro 0.1.pdb
+C:\Users\Fábio junic\Videos\.Aulas\Project C#\Parte 2\FábioMadaleno12\Cronometro 0.1\obj\Debug\Cronometro 0.1.csprojAssemblyReference.cache
+C:\Users\Fábio junic\Videos\.Aulas\Project C#\Parte 2\FábioMadaleno12\Cronometro 0.1\obj\Debug\Cronometro_0._1.Form1.resources
+C:\Users\Fábio junic\Videos\.Aulas\Project C#\Parte 2\FábioMadaleno12\Cronometro 0.1\obj\Debug\Cronometro_0._1.Properties.Resources.resources
+C:\Users\Fábio junic\Videos\.Aulas\Project C#\Parte 2\FábioMadaleno12\Cronometro 0.1\obj\Debug\Cronometro 0.1.csproj.GenerateResource.cache
+C:\Users\Fábio junic\Videos\.Aulas\Project C#\Parte 2\FábioMadaleno12\Cronometro 0.1\obj\Debug\Cronometro 0.1.csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Videos\.Aulas\Project C#\Parte 2\FábioMadaleno12\Cronometro 0.1\obj\Debug\Cronometro 0.1.exe
+C:\Users\Fábio junic\Videos\.Aulas\Project C#\Parte 2\FábioMadaleno12\Cronometro 0.1\obj\Debug\Cronometro 0.1.pdb
