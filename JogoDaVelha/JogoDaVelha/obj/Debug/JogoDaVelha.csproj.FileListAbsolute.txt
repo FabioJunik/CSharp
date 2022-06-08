@@ -1,0 +1,37 @@
+C:\Users\user\Downloads\tictactoe\Tictactoe\Tictactoe\bin\Debug\Tictactoe.exe.config
+C:\Users\user\Downloads\tictactoe\Tictactoe\Tictactoe\obj\Debug\Tictactoe.exe
+C:\Users\user\Downloads\tictactoe\Tictactoe\Tictactoe\obj\Debug\Tictactoe.pdb
+C:\Users\user\Downloads\tictactoe\Tictactoe\Tictactoe\bin\Debug\Tictactoe.exe
+C:\Users\user\Downloads\tictactoe\Tictactoe\Tictactoe\bin\Debug\Tictactoe.pdb
+C:\Users\user\Downloads\tictactoe\Tictactoe\Tictactoe\obj\Debug\Tictactoe.Form1.resources
+C:\Users\user\Downloads\tictactoe\Tictactoe\Tictactoe\obj\Debug\Tictactoe.Properties.Resources.resources
+C:\Users\user\Downloads\tictactoe\Tictactoe\Tictactoe\obj\Debug\JogoDaVelha.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\tictactoe\Tictactoe\JogoDaVelha\bin\Debug\Tictactoe.exe.config
+C:\Users\user\Downloads\tictactoe\Tictactoe\JogoDaVelha\obj\Debug\Tictactoe.exe
+C:\Users\user\Downloads\tictactoe\Tictactoe\JogoDaVelha\obj\Debug\Tictactoe.pdb
+C:\Users\user\Downloads\tictactoe\Tictactoe\JogoDaVelha\bin\Debug\Tictactoe.exe
+C:\Users\user\Downloads\tictactoe\Tictactoe\JogoDaVelha\bin\Debug\Tictactoe.pdb
+C:\Users\user\Downloads\tictactoe\Tictactoe\JogoDaVelha\obj\Debug\JogoDaVelha.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\tictactoe\Tictactoe\JogoDaVelha\obj\Debug\Tictactoe.Form1.resources
+C:\Users\user\Downloads\tictactoe\Tictactoe\JogoDaVelha\obj\Debug\Tictactoe.Properties.Resources.resources
+C:\Users\user\Downloads\tictactoe\Tictactoe\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.Cache
+C:\Users\Fábio junic\Videos\JogoDaVelha_CSharp\JogoDaVelha\bin\Debug\Tictactoe.exe.config
+C:\Users\Fábio junic\Videos\JogoDaVelha_CSharp\JogoDaVelha\bin\Debug\Tictactoe.exe
+C:\Users\Fábio junic\Videos\JogoDaVelha_CSharp\JogoDaVelha\bin\Debug\Tictactoe.pdb
+C:\Users\Fábio junic\Videos\JogoDaVelha_CSharp\JogoDaVelha\obj\Debug\JogoDaVelha.csprojAssemblyReference.cache
+C:\Users\Fábio junic\Videos\JogoDaVelha_CSharp\JogoDaVelha\obj\Debug\Tictactoe.Form1.resources
+C:\Users\Fábio junic\Videos\JogoDaVelha_CSharp\JogoDaVelha\obj\Debug\Tictactoe.Properties.Resources.resources
+C:\Users\Fábio junic\Videos\JogoDaVelha_CSharp\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.cache
+C:\Users\Fábio junic\Videos\JogoDaVelha_CSharp\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Videos\JogoDaVelha_CSharp\JogoDaVelha\obj\Debug\Tictactoe.exe
+C:\Users\Fábio junic\Videos\JogoDaVelha_CSharp\JogoDaVelha\obj\Debug\Tictactoe.pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\JogoDaVelha\JogoDaVelha\bin\Debug\Tictactoe.exe.config
+C:\Users\Fábio junic\Videos\Aulas\Project C#\JogoDaVelha\JogoDaVelha\bin\Debug\Tictactoe.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\JogoDaVelha\JogoDaVelha\bin\Debug\Tictactoe.pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csprojAssemblyReference.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\JogoDaVelha\JogoDaVelha\obj\Debug\Tictactoe.Form1.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\JogoDaVelha\JogoDaVelha\obj\Debug\Tictactoe.Properties.Resources.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\JogoDaVelha\JogoDaVelha\obj\Debug\Tictactoe.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\JogoDaVelha\JogoDaVelha\obj\Debug\Tictactoe.pdb
