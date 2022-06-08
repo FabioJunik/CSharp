@@ -1,0 +1,10 @@
+C:\Users\Fábio junic\Videos\Aulas\Project C#\NotePed 0.1\obj\Debug\NotePed 0.1.csprojAssemblyReference.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\NotePed 0.1\obj\Debug\NotePed_0._1.Properties.Resources.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\NotePed 0.1\obj\Debug\NotePed_0._1.View.Man.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\NotePed 0.1\obj\Debug\NotePed 0.1.csproj.GenerateResource.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\NotePed 0.1\obj\Debug\NotePed 0.1.csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\NotePed 0.1\bin\Debug\NotePed 0.1.exe.config
+C:\Users\Fábio junic\Videos\Aulas\Project C#\NotePed 0.1\bin\Debug\NotePed 0.1.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\NotePed 0.1\bin\Debug\NotePed 0.1.pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\NotePed 0.1\obj\Debug\NotePed 0.1.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\NotePed 0.1\obj\Debug\NotePed 0.1.pdb
