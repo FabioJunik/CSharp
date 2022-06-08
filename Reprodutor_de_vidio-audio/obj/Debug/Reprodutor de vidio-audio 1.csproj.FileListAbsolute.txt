@@ -1,0 +1,15 @@
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Reprodutor de vidio-audio 1\bin\Debug\Reprodutor de vidio-audio 1.exe.config
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Reprodutor de vidio-audio 1\bin\Debug\Reprodutor de vidio-audio 1.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Reprodutor de vidio-audio 1\bin\Debug\Reprodutor de vidio-audio 1.pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Reprodutor de vidio-audio 1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Reprodutor de vidio-audio 1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Reprodutor de vidio-audio 1\obj\Debug\Reprodutor de vidio-audio 1.csprojAssemblyReference.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Reprodutor de vidio-audio 1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Reprodutor de vidio-audio 1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Reprodutor de vidio-audio 1\obj\Debug\Reprodutor de vidio-audio 1.csproj.ResolveComReference.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Reprodutor de vidio-audio 1\obj\Debug\Reprodutor_de_vidio_audio_1.Form1.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Reprodutor de vidio-audio 1\obj\Debug\Reprodutor_de_vidio_audio_1.Properties.Resources.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Reprodutor de vidio-audio 1\obj\Debug\Reprodutor de vidio-audio 1.csproj.GenerateResource.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Reprodutor de vidio-audio 1\obj\Debug\Reprodutor de vidio-audio 1.csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Reprodutor de vidio-audio 1\obj\Debug\Reprodutor de vidio-audio 1.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Reprodutor de vidio-audio 1\obj\Debug\Reprodutor de vidio-audio 1.pdb
